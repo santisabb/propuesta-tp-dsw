@@ -20,9 +20,7 @@ Aplicación para gestión de reservas en un complejo de canchas de fútbol, dond
 
 ### **Modelo**
 
-<img height="600" src="C:\Users\santi\f5TPDSW.drawio.jpg" width="800"/>
-
-[link del modelo](https://app.diagrams.net/#Hsantisabb%2Fejercicios-base_de_datos%2Fmain%2Ff5TPDSW.drawio)
+[link del modelo](https://github.com/santisabb/propuesta-tp-dsw/blob/main/f5TPDSW.jpg)
 
 ## Alcance Funcional
 
