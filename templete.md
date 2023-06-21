@@ -22,6 +22,8 @@ Aplicación para gestión de reservas en un complejo de canchas de fútbol, dond
 
 <img height="600" src="C:\Users\santi\f5TPDSW.drawio.jpg" width="800"/>
 
+[link del modelo](https://app.diagrams.net/#Hsantisabb%2Fejercicios-base_de_datos%2Fmain%2Ff5TPDSW.drawio)
+
 ## Alcance Funcional
 
 | CRUD Simple       | 1. CRUD Tipo cancha<br/> 2. CRUD Servicio<br/> 3. CRUD Cancha <br/> 4. CRUD Empleado <br/> 5. CRUD Cliente <br/> 6. CRUD Parrilla                                                                                                                                                                          |
