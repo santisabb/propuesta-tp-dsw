@@ -12,6 +12,23 @@
 
 [backend-app](https://github.com/bernioviedo/backend-app.git)
 
+## Tema
+
+### **Descripcion**
+
+Aplicación para gestión de reservas en un complejo de canchas de fútbol, donde hay diferentes tipos de canchas (fútbol 5, 6 y 7) y con posibilidad de reservar también una parrilla del predio.
+
+### **Modelo**
+
+![]("C:\Users\santi\f5TPDSW.drawio.png")
+
+## Alcance Funcional
+
+| CRUD Simple       | 1. CRUD Tipo cancha<br/> 2. CRUD Servicio<br/> 3. CRUD Cancha <br/> 4. CRUD Empleado <br/> 5. CRUD Cliente <br/> 6. CRUD Parrilla                                                                                                                                                                          |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CRUD Dependiente  | 1. CRUD Cancha {depende de} CRUD Tipo Cancha <br/> 2. CRUD Servicio {depende de} CRUD Cliente, CRUD Empleado y CRUD Cancha                                                                                                                                                                                 |
+| Listado + detalle | 1. Listado de reservas filtrado por , muestra nro de cancha, hora inicio y hora fin, estado y nombre del cliente => detalle muestra datos completos de la reserva y el cliente <br/> 2. Listado de clientes filtrado por cantidad de reservas => detalle muestra datos del cliente e histórico de reservas |
+| CUU/Epic          | 1. Reservar una cancha para juga <br/> 2. Realizar cobro de una reserva <br/> 3. Realizar facturación de servicios <br/> 4. Cancelación de reserva                                                                                                                                                                               |
 
 
 
