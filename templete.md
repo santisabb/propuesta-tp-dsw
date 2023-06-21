@@ -20,7 +20,7 @@ Aplicación para gestión de reservas en un complejo de canchas de fútbol, dond
 
 ### **Modelo**
 
-![]("C:\Users\santi\f5TPDSW.drawio.png")
+<img height="6" src="C:\Users\santi\f5TPDSW.drawio.png" width="8"/>
 
 ## Alcance Funcional
 
