@@ -16,7 +16,7 @@
 
 ### **Descripcion**
 
-Aplicación para gestión de reservas en un complejo de canchas de fútbol, donde hay diferentes tipos de canchas (fútbol 5, 6 y 7) y con posibilidad de reservar también una parrilla del predio. Empleados controlan reservas para llevar un histórico de las mismas, pudiendo obtener una lista con los clientes más frecuentes.
+Aplicación para gestión de reservas en un complejo de canchas de fútbol, donde hay diferentes tipos de canchas (fútbol 5, 6 y 7) y con posibilidad de reservar también una parrilla del predio. Empleados controlan reservas para llevar un histórico de las mismas, pudiendo obtener una lista con los clientes más frecuentes. Los usuarios pueden inscribir un equipo para disputar un torneo, si no hay equipos inscriptos el torneo no se realiza
 
 ### **Modelo**
 
