@@ -22,6 +22,7 @@ Aplicación para gestión de reservas en un complejo de canchas de fútbol, dond
 
 [link del modelo](https://github.com/santisabb/propuesta-tp-dsw/blob/main/f5TPDSW.jpg)
 
+<img sr="https://github.com/santisabb/propuesta-tp-dsw/blob/main/f5TPDSW.jpg">
 ## Alcance Funcional
 
 | CRUD Simple       | 1. CRUD Tipo cancha<br/> 2. CRUD Servicio<br/> 3. CRUD Cancha <br/> 4. CRUD Empleado <br/> 5. CRUD Cliente <br/> 6. CRUD Parrilla                                                                                                                                                                          |
